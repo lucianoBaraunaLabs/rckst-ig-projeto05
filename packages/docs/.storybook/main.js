@@ -20,7 +20,7 @@ const config = {
   },
   viteFinal: (config, {configType}) => {
     if (configType === 'PRODUCTION') {
-      config.base = '/lucianoBaraunaLabs/rckst-ig-projeto05/'
+      config.base = '/rckst-ig-projeto05/'
     }
 
     return config
