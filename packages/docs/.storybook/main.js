@@ -18,5 +18,10 @@ const config = {
   docs: {
     autodocs: "tag",
   },
+  viteFinal: (config, {configType}) => {
+    if (configType === 'PRODUCTION') {
+      config.base = '/rckst-ig-projeto05'
+    }
+  }
 };
 export default config;
