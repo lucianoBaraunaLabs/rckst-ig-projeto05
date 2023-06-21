@@ -22,6 +22,8 @@ const config = {
     if (configType === 'PRODUCTION') {
       config.base = '/rckst-ig-projeto05'
     }
+
+    return config
   }
 };
 export default config;
