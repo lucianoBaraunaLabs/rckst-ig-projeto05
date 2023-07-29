@@ -1,5 +1,11 @@
 # @ignite-ui-lbl/react
 
+## 2.0.2
+
+### Patch Changes
+
+- create new componente Toast
+
 ## 2.0.1
 
 ### Patch Changes
