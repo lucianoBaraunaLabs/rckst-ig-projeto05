@@ -23,6 +23,8 @@ export const {
     ...defaultThemeMap,
     height: 'space',
     width: 'space',
+    padding: 'space',
+    fill: 'colors',
   },
   theme: {
     colors,

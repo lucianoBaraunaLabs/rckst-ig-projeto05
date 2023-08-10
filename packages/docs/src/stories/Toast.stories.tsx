@@ -27,7 +27,7 @@ function DemoToast(props: ToastProps) {
 }
 
 export default {
-  title: 'Form/Toast',
+  title: 'Data display/Toast',
   component: Toast,
   tags: ['autodocs'],
 } as Meta<ToastProps>
